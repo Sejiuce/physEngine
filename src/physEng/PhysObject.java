@@ -11,4 +11,6 @@ public class PhysObject {
     double mass; //mass of object
     double xCOM; //centre of mass in x direction
     double yCOM; //centre of mass in y direction
+    double xAMOI; //area moment of inertia in x direction
+    double yAMOI; //area moment of inertia in y direction
 }
